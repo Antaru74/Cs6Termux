@@ -27,7 +27,7 @@ curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/dee
 ```bash
 curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/signalinstall.sh | bash
 ```
-- [x] Red Giant Universe 2.2.2
+- [x] Red Giant Universe (Not Working)
 ```bash
 not yet
 ```
