@@ -29,7 +29,7 @@ curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/sig
 ```
 - [x] Vectory
 ```bash
-
+curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/vectoryinstall.sh | bash
 ```
 - [x] Red Giant Universe (Not Working)
 # 📋 Requirements
