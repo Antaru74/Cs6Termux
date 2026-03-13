@@ -65,8 +65,9 @@ Type 1 to exit
 - Type Cs6 in Termux
 - Select option 3 (Install Driver)
 - Select the driver to install:
-- [x] Qualcomm_819.2_adpkg.so
-- [x] adreno676.53.adpkg.so
+- [x] turnip_v25.1.0_R6.so (Recommended)
+- [x] Qualcomm_819.2_adpkg.so (Recommended)
+- [x] adreno676.53.adpkg.so (Recommended)
 - [x] Turnip_v25.2.0_R14.so
 - [x] turnip_mrpurple-T19-toasted.adpkg.so
 - [x] Turnip_v25.3.0_R11.so
