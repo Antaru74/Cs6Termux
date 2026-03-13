@@ -61,16 +61,17 @@ Type 1 to exit
 - Type Cs6 in Termux
 - Select option 3 (Install Driver)
 - Select the driver to install:
-- [x] Qualcomm805A7xx,A6xx.so
-> For Adreno A7xx / A6xx GPUs
-- [x] Qualcomm849A7xx.so
-> For Adreno A7xx / maybe A6xx GPUs
-- [x] v26.0.0R8A8xx.so
-> For Adreno A8xx GPUs
-- [x] v26.0.0R8A7xx.so
-> For Adreno A7xx / maybe A6xx GPUs
-- [x] v25.1.0R6.so
-> For Adreno A7xx / A6xx GPUs
+- [x] Qualcomm_819.2_adpkg.so
+- [x] adreno676.53.adpkg.so
+- [x] Turnip_v25.2.0_R14.so
+- [x] turnip_mrpurple-T19-toasted.adpkg.so
+- [x] Turnip_v25.3.0_R11.so
+- [x] turnip_mrpurple_T21-AYANEO.adpkg.so
+- [x] Turnip_v26.0.0_R7.so
+- [x] turnip_mrpurple_T26-toasted.adpkg.so
+- [x] adreno-driver-800.51.so
+- [x] turnip_v24.3.0_R9v2.so
+- [x] adreno-driver-842.8.so
 - ```Drivers directory: $HOME/Drivers```
 # 🙏 Credits
 - Airidosas252 [Proton9arm64ec](https://github.com/airidosas252/tur/tree/master/tur/proton) [and](https://zbeon.com/proton-9-0-arm64ec-best-termux-based-windows-emulator/)
