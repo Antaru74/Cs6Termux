@@ -31,6 +31,10 @@ curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/sig
 ```bash
 curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/vectoryinstall.sh | bash
 ```
+- [x] Polytrace
+```bash
+curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/polytraceinstall.sh | bash
+```
 - [x] Red Giant Universe (Not Working)
 # 📋 Requirements
 - [Termux](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
