@@ -76,3 +76,5 @@ Type 1 to exit
 # 🙏 Credits
 - Airidosas252 [Proton9arm64ec](https://github.com/airidosas252/tur/tree/master/tur/proton) [and](https://zbeon.com/proton-9-0-arm64ec-best-termux-based-windows-emulator/)
 - K11MCH1 [Drivers](https://github.com/K11MCH1/AdrenoToolsDrivers)
+- MrPurple666 [Drivers](https://github.com/MrPurple666/purple-turnip)
+- zoerakk [Drivers](https://github.com/zoerakk/qualcomm-adreno-driver)
