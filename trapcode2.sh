@@ -38,4 +38,5 @@ rm -rf TrapcodeSuite13.exe
 cp -r "/Program Files/Adobe/Adobe After Effects CS6/Support Files" "$HOME/.wine/drive_c/Adobe After Effects CS6 Portable/App/Ae/"
 cd ~/.wine/drive_c
 rm -rf "/Program Files/Adobe/Adobe After Effects CS6/Support Files"/*
+rm -rf "Program Files/Adobe/Common/Plug-ins/CS6/MediaCore/RGSGrowBounds.aex"
 echo DONE
