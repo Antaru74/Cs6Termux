@@ -32,7 +32,7 @@ cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/E
 - [x] Twitch
 - [x] Unmult
 - [x] Vectory
-- [x] Red Giant Universe (Not Working)
+- [x] Red Giant Universe (Many bugs)
 # 📋 Requirements
 - [Termux](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
 - [Termux:X11-Extra](https://github.com/moio9/termux-x11-extra/releases/download/v1.0-rc1/app-universal-debug.apk)
