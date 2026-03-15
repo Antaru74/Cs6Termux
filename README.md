@@ -18,8 +18,8 @@
 - [x] AEPixelSorter2
 - [x] Ntsc Rs
 - [x] PixelEncoder
-# Extra Plugin (requires After Effects CS6 installed first)
-- Run this command to install:
+# Extra Plugins (requires After Effects CS6 installed first)
+- Run this command to install extra plugins:
 ```bash
 cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/ExtraPlugin/extraplugin.tar.xz | pv | tar -xJf - && cd
 ```
