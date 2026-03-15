@@ -21,7 +21,7 @@
 # Extra Plugin (requires After Effects CS6 installed first)
 - Run this command to install:
 ```bash
-wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/ExtraPlugin/extraplugin.tar.xz | pv | tar -xJf -
+cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/ExtraPlugin/extraplugin.tar.xz | pv | tar -xJf -
 ```
 - [x] Deep Glow
 - [x] Fast Bokeh
