@@ -35,7 +35,7 @@ cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/E
 - [x] Trapcode Suite 
 - Run this command to install Trapcode Suite (13) (Mir and Tao don't work, other effects work normally)
 ```bash
-cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/TrapcodeSuite/trapcodesuite.tar.xz | pv | tar -xJf - && cd
+curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/trapcodesuite.sh | bash
 ```
 - [ ] Red Giant Universe (Many bugs)
 # 📋 Requirements
