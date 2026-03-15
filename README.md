@@ -21,7 +21,7 @@
 # Extra Plugin (requires After Effects CS6 installed first)
 - Run this command to install:
 ```bash
-cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/ExtraPlugin/extraplugin.tar.xz | pv | tar -xJf -
+cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/ExtraPlugin/extraplugin.tar.xz | pv | tar -xJf - && cd
 ```
 - [x] Deep Glow
 - [x] Fast Bokeh
@@ -33,6 +33,7 @@ cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/E
 - [x] Unmult
 - [x] Vectory
 - [ ] Red Giant Universe (Many bugs)
+- [ ] Trapcode Suite (Mir and Tao don't work, other effects work normally)
 # 📋 Requirements
 - [Termux](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
 - [Termux:X11-Extra](https://github.com/moio9/termux-x11-extra/releases/download/v1.0-rc1/app-universal-debug.apk)
