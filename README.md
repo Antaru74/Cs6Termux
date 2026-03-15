@@ -32,8 +32,12 @@ cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/E
 - [x] Twitch
 - [x] Unmult
 - [x] Vectory
+- [x] Trapcode Suite 
+- Run this command to install Trapcode Suite (13) (Mir and Tao don't work, other effects work normally)
+```bash
+cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/TrapcodeSuite/trapcodesuite.tar.xz | pv | tar -xJf - && cd
+```
 - [ ] Red Giant Universe (Many bugs)
-- [ ] Trapcode Suite (Soon) (Mir and Tao don't work, other effects work normally)
 # 📋 Requirements
 - [Termux](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
 - [Termux:X11-Extra](https://github.com/moio9/termux-x11-extra/releases/download/v1.0-rc1/app-universal-debug.apk)
