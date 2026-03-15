@@ -18,23 +18,20 @@
 - [x] AEPixelSorter2
 - [x] Ntsc Rs
 - [x] PixelEncoder
-- Extra Plugin (requires After Effects CS6 installed first)
+# Extra Plugin (requires After Effects CS6 installed first)
+- Run this command to install:
+```bash
+wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/ExtraPlugin/extraplugin.tar.xz | pv | tar -xJf -
+```
 - [x] Deep Glow
-```bash
-curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/deepglowinstall.sh | bash
-```
-- [x] Signal
-```bash
-curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/signalinstall.sh | bash
-```
-- [x] Vectory
-```bash
-curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/vectoryinstall.sh | bash
-```
+- [x] Fast Bokeh
+- [x] Geometric Filter
+- [x] Pixelocybe
 - [x] Polytrace
-```bash
-curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/polytraceinstall.sh | bash
-```
+- [x] Signal
+- [x] Twitch
+- [x] Unmult
+- [x] Vectory
 - [x] Red Giant Universe (Not Working)
 # 📋 Requirements
 - [Termux](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
