@@ -32,3 +32,10 @@ DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wine explorer /desktop=install,1920x
 wineserver -w
 wineserver -k
 pkill -f com.termux.x11
+cd
+cd ~/.wine/drive_c
+rm -rf TrapcodeSuite13.exe
+cp -r "/Program Files/Adobe/Adobe After Effects CS6/Support Files" "$HOME/.wine/drive_c/Adobe After Effects CS6 Portable/App/Ae/"
+cd ~/.wine/drive_c
+rm -rf "/Program Files/Adobe/Adobe After Effects CS6/Support Files"/*
+echo DONE
