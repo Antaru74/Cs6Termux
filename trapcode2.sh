@@ -29,13 +29,12 @@ sleep 2
 
 DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wine explorer /desktop=install,1920x1080 msiexec /i C:\\TrapcodeSuite13.exe
 
-# đợi installer đóng
 wineserver -w
 
-echo
-echo "type y to continue"
-read confirm
-[ "$confirm" != "y" ] && exit
+while true; do
+    read -p "type y to continue: " confirm
+    [ "$confirm" = "y" ] && break
+done
 
 wineserver -k
 pkill -f com.termux.x11
@@ -44,10 +43,10 @@ cd ~/.wine/drive_c
 
 rm -rf TrapcodeSuite13.exe
 
-cp -r "/Program Files/Adobe/Adobe After Effects CS6/Support Files" \
+cp -r "$HOME/.wine/drive_c/Program Files/Adobe/Adobe After Effects CS6/Support Files" \
 "$HOME/.wine/drive_c/Adobe After Effects CS6 Portable/App/Ae/"
 
-rm -rf "/Program Files/Adobe/Adobe After Effects CS6/Support Files"/*
-rm -rf "Program Files/Adobe/Common/Plug-ins/CS6/MediaCore/RGSGrowBounds.aex"
+rm -rf "$HOME/.wine/drive_c/Program Files/Adobe/Adobe After Effects CS6/Support Files"/*
+rm -rf "$HOME/.wine/drive_c/Program Files/Adobe/Common/Plug-ins/CS6/MediaCore/RGSGrowBounds.aex"
 
 echo DONE
