@@ -64,13 +64,13 @@ Type 1 to exit
 - [x] turnip_mrpurple-T18-toasted.adpkg.so
 - (maybe fix VRAM error for Tao and Mir effects, but may also cause some issues when using turnip mr purple)
 - [x] turnip_mrpurple-T19-toasted.adpkg.so
--(maybe fix VRAM error for Tao and Mir effects, but may also cause some issues when using turnip mr purple)
+- (maybe fix VRAM error for Tao and Mir effects, but may also cause some issues when using turnip mr purple)
 - [x] turnip_mrpurple-T21-toasted.adpkg.so
--(maybe fix VRAM error for Tao and Mir effects, but may also cause some issues when using turnip mr purple)
+- (maybe fix VRAM error for Tao and Mir effects, but may also cause some issues when using turnip mr purple)
 - [x] turnip_mrpurple_T21-AYANEO.adpkg.so
--(maybe fix VRAM error for Tao and Mir effects, but may also cause some issues when using turnip mr purple)
+- (maybe fix VRAM error for Tao and Mir effects, but may also cause some issues when using turnip mr purple)
 - [x] turnip_mrpurple_T26-toasted.adpkg.so
--(maybe fix VRAM error for Tao and Mir effects, but may also cause some issues when using turnip mr purple)
+- (maybe fix VRAM error for Tao and Mir effects, but may also cause some issues when using turnip mr purple)
 - [x] Turnip_v25.2.0_R14.so
 - [x] Turnip_v25.3.0_R11.so
 - [x] Turnip_v26.0.0_R7.so
