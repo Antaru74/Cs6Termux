@@ -13,16 +13,12 @@
 - [x] BCC (10,9)
 - [x] Sapphire 9
 - [x] Magic Bullet Suite 12.1.5
+- [x] Trapcode Suite 13 (a7xx needs mr purple driver to run tao and mir effects)
 - [x] Newton 2.2.11
 - [x] Rowbyte
 - [x] AEPixelSorter2
 - [x] Ntsc Rs
 - [x] PixelEncoder
-# Extra Plugins (requires After Effects CS6 installed first)
-- Run this command to install extra plugins:
-```bash
-cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/ExtraPlugin/extraplugin.tar.xz | pv | tar -xJf - && cd
-```
 - [x] Deep Glow
 - [x] Fast Bokeh
 - [x] Geometric Filter
@@ -32,11 +28,6 @@ cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/E
 - [x] Twitch
 - [x] Unmult
 - [x] Vectory
-- [x] Trapcode Suite 
-- Run this command to install Trapcode Suite 13 (a7xx needs mr purple driver to run tao and mir effects)
-```bash
-
-```
 - [ ] Red Giant Universe (Many bugs)
 # 📋 Requirements
 - [Termux](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
