@@ -8,4 +8,6 @@ cp -r "$HOME/.wine/drive_c/Program Files/Adobe/Adobe After Effects CS6/Support F
 rm -rf "$HOME/.wine/drive_c/Program Files/Adobe/Adobe After Effects CS6/Support Files"/*
 rm -rf "$HOME/.wine/drive_c/Program Files/Adobe/Common/Plug-ins/CS6/MediaCore/RGSGrowBounds.aex"
 
+clear
+
 echo DONEEEEEEEEE
