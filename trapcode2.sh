@@ -27,7 +27,7 @@ sleep 2
 DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wineboot
 sleep 2
 
-DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wine TrapcodeSuite13.exe /S
+DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wine TrapcodeSuite13.exe /silent
 
 echo "Install TrapcodeSuite"
 
