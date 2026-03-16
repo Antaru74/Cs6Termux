@@ -35,7 +35,7 @@ cd ~/.wine && wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/E
 - [x] Trapcode Suite 
 - Run this command to install Trapcode Suite 13 (a7xx needs mr purple driver to run tao and mir effects)
 ```bash
-curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/trapcode.sh | bash
+
 ```
 - [ ] Red Giant Universe (Many bugs)
 # 📋 Requirements
