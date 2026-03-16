@@ -31,9 +31,13 @@ DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wine explorer /desktop=install,1920x
 
 wineserver -w
 
+echo
+echo "type y to continue"
+
 while true; do
-    read -p "type y to continue: " confirm
-    [ "$confirm" = "y" ] && break
+read confirm < /dev/tty
+[ "$confirm" = "y" ] && break
+echo "type y to continue"
 done
 
 wineserver -k
