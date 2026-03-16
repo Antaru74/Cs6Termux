@@ -79,6 +79,8 @@ Type 1 to exit
 - [x] adreno-driver-800.51.so
 - [x] turnip_v24.3.0_R9v2.so
 - [x] adreno-driver-842.8.so
+- [x] turnip_mrpurple-T21-toasted.adpkg.so
+- [x] turnip_mrpurple-T18-toasted.adpkg.so
 - ```Drivers directory: $HOME/Drivers```
 # 🙏 Credits
 - Airidosas252 [Proton9arm64ec](https://github.com/airidosas252/tur/tree/master/tur/proton) [and](https://zbeon.com/proton-9-0-arm64ec-best-termux-based-windows-emulator/)
