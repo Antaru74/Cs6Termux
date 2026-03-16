@@ -70,17 +70,17 @@ Type 1 to exit
 - [x] turnip_v25.1.0_R6.so (Recommended)
 - [x] Qualcomm_819.2_adpkg.so (Recommended)
 - [x] adreno676.53.adpkg.so (Recommended)
+- [x] turnip_mrpurple-T18-toasted.adpkg.so (maybe fix vram error for tao and mir effects)
+- [x] turnip_mrpurple-T19-toasted.adpkg.so (maybe fix vram error for tao and mir effects)
+- [x] turnip_mrpurple-T21-toasted.adpkg.so (maybe fix vram error for tao and mir effects)
+- [x] turnip_mrpurple_T21-AYANEO.adpkg.so (maybe fix vram error for tao and mir effects)
+- [x] turnip_mrpurple_T26-toasted.adpkg.so (maybe fix vram error for tao and mir effects)
 - [x] Turnip_v25.2.0_R14.so
-- [x] turnip_mrpurple-T19-toasted.adpkg.so
 - [x] Turnip_v25.3.0_R11.so
-- [x] turnip_mrpurple_T21-AYANEO.adpkg.so
 - [x] Turnip_v26.0.0_R7.so
-- [x] turnip_mrpurple_T26-toasted.adpkg.so
 - [x] adreno-driver-800.51.so
 - [x] turnip_v24.3.0_R9v2.so
 - [x] adreno-driver-842.8.so
-- [x] turnip_mrpurple-T21-toasted.adpkg.so
-- [x] turnip_mrpurple-T18-toasted.adpkg.so
 - ```Drivers directory: $HOME/Drivers```
 # 🙏 Credits
 - Airidosas252 [Proton9arm64ec](https://github.com/airidosas252/tur/tree/master/tur/proton) [and](https://zbeon.com/proton-9-0-arm64ec-best-termux-based-windows-emulator/)
