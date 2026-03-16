@@ -29,6 +29,8 @@ sleep 2
 
 DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wine TrapcodeSuite13.exe /S
 
+echo "Install TrapcodeSuite"
+
 wineserver -w
 
 curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/trapcode3.sh | bash
