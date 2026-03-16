@@ -31,4 +31,3 @@ DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wine explorer /desktop=install,1920x
 wineserver -w
 wineserver -k
 pkill -f com.termux.x11
-curl -sL https://raw.githubusercontent.com/niyeee4/Cs6Termux/refs/heads/main/trapcode3.sh | bash
