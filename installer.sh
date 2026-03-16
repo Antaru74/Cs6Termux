@@ -61,7 +61,7 @@ done
 echo "Installing After Effects Cs6"
 rm -rf $HOME/.wine/drive_c
 cd ~/.wine
-wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/Cs6/drive_c_backup.tar.xz | pv | tar -xJf -
+wget -O - https://github.com/niyeee4/Cs6Termux/releases/download/Cs6_Update/drive_c_backup.tar.xz | pv | tar -xJf -
 sleep 1
 # Create drive mappings
 ln -sfT /sdcard/Download $HOME/.wine/dosdevices/e:
