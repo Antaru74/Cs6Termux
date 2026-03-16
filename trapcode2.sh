@@ -27,9 +27,7 @@ sleep 2
 DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wineboot
 sleep 2
 
-DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wine explorer /desktop=install,1920x1080 msiexec /i C:\\TrapcodeSuite13.exe
-
-wineserver -w
+DISPLAY=:1 WINE_DISABLE_KERNEL_WRITEWATCH=1 wine msiexec /i C:\\TrapcodeSuite13.exe
 
 wineserver -k
 pkill -f com.termux.x11
